@@ -1,0 +1,10 @@
+body {
+  background-image: url("./images/lets_go_on_an_adventure.png");
+  background-size: cover;
+}
+
+/* class for hiding items on the page as needed */
+
+.hidden {
+  display: none;
+}
