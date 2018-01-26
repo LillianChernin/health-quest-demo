@@ -4,13 +4,13 @@ h1{
 h3{
   text-align: center;
 }
-#cave, #forest {
+#cave, #forest, #mountain, #stream {
 
-  margin-left: 4%;
+  margin-left: 5%;
   margin-top: 5%
 
 }
-#caveLose, #caveWin, #forestWin, #forestLose{
+#caveLose, #caveWin, #forestWin, #forestLose, #mounWin, #mounLose, #streamLose, #streamWin{
   margin-left: 20%;
 }
 
@@ -19,11 +19,11 @@ h3{
   margin-left: 5%;
 }
 
-#oats{
+#oats {
   margin-left: 3%;
   margin-top: 5%;
 }
-#coke{
+#coke, #sandwich, #pizza, #fries{
   margin-left: 3%;
   margin-bottom: 4%;
 }
