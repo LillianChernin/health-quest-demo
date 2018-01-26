@@ -1,3 +1,33 @@
 h1{
-  background-color: pink;
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+#cave, #forest {
+
+  margin-left: 4%;
+  margin-top: 5%
+
+}
+#caveLose, #caveWin, #forestWin, #forestLose{
+  margin-left: 20%;
+}
+
+
+#water, #donut{
+  margin-left: 5%;
+}
+
+#oats{
+  margin-left: 3%;
+  margin-top: 5%;
+}
+#coke{
+  margin-left: 3%;
+  margin-bottom: 4%;
+}
+
+#kidCave {
+  margin-left: 3%;
 }
