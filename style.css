@@ -1,9 +1,8 @@
-h1{
+h1, h3{
   text-align: center;
+
 }
-h3{
-  text-align: center;
-}
+
 #cave, #forest, #mountain, #stream {
 
   margin-left: 5%;
@@ -44,6 +43,7 @@ header {
   background-repeat: no-repeat;
   margin: 0 auto;
   display: flex;
+
 }
 
 #beginGameButton {
@@ -53,6 +53,7 @@ header {
   color: black;
   margin-top: 350px;
   margin-left: 650px;
+
 }
 .headerItems {
   display: inline-block;
@@ -62,4 +63,5 @@ header {
 .headerLinks {
   text-decoration: none;
   color: black;
+
 }
