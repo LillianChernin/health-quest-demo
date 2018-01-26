@@ -1,5 +1,6 @@
 h1, h3{
   text-align: center;
+  font-family: 'Noto Sans', sans-serif;
 
 }
 
@@ -34,6 +35,7 @@ h1, h3{
 header {
   background-color: #767999;
   text-align: right;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 #letsPlayScreen {
@@ -53,15 +55,18 @@ header {
   color: black;
   margin-top: 350px;
   margin-left: 650px;
+  font-family: 'Noto Sans', sans-serif;
 
 }
 .headerItems {
   display: inline-block;
   padding: 36px;
   font-size: 24px;
+  font-family: 'Noto Sans', sans-serif;
 }
 .headerLinks {
   text-decoration: none;
   color: black;
+  font-family: 'Noto Sans', sans-serif;
 
 }
